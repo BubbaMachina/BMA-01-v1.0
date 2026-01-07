@@ -18,6 +18,9 @@ The system uses an **ESP32 programmed via the Arduino IDE** to host a **Wi-Fi–
 
 ---
 
+Watch a demonstration:
+👉 [https://youtu.be/-KhcPkbhVoQ](https://youtube.com/shorts/BYGnF4vTOc4)
+
 ## 🧠 Core Concepts
 
 - Forward and Inverse Kinematics (2DOF planar arm)

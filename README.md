@@ -6,6 +6,26 @@ The system uses an **ESP32 programmed via the Arduino IDE** to host a **Wi-Fi–
 
 ---
 
+
+<img src="assets/arm1_1.jpg" width="300" />
+
+<img src="assets/arm1_2.jpg" width="300" />
+
+<img src="assets/arm1_3.jpg" width="600" />
+
+<img src="assets/arm1_4.gif" width="600" />
+
+### Inverse Kinematic Equations
+
+<a href=" https://codepen.io/bubbamachina/pen/KKXJQmr"> Code Pen Link </a>
+
+<img src="assets/codepen.png" width="600" />
+
+
+
+
+
+
 ## 🚀 Project Overview
 
 - 2 Degrees of Freedom (planar robotic arm)
